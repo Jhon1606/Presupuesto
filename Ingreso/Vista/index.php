@@ -1,3 +1,5 @@
+<?php   ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +9,8 @@
     <title>Ingresos</title>
 </head>
 <body>
-    
+    <form action="../Controlador/add.php" method="POST">
+        <input type="text" name="nombre">
+    </form>
 </body>
 </html>
