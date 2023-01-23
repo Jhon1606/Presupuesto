@@ -9,8 +9,6 @@
     <title>Ingresos</title>
 </head>
 <body>
-    <form action="../Controlador/add.php" method="POST">
-        <input type="text" name="nombre">
-    </form>
+    <p>Estamos en Ingreso</p>
 </body>
 </html>
